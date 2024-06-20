@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/mc-enchant-maker/static/css/main.9a71fbc5.css",
-    "main.js": "/mc-enchant-maker/static/js/main.400eb78d.js",
+    "main.js": "/mc-enchant-maker/static/js/main.1c41386d.js",
     "static/js/6259.24a1c1da.chunk.js": "/mc-enchant-maker/static/js/6259.24a1c1da.chunk.js",
     "static/js/2025.0f2d4673.chunk.js": "/mc-enchant-maker/static/js/2025.0f2d4673.chunk.js",
     "static/js/6466.7c68b493.chunk.js": "/mc-enchant-maker/static/js/6466.7c68b493.chunk.js",
@@ -215,6 +215,6 @@
   },
   "entrypoints": [
     "static/css/main.9a71fbc5.css",
-    "static/js/main.400eb78d.js"
+    "static/js/main.1c41386d.js"
   ]
 }
