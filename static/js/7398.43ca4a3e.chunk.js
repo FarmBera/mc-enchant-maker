@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmc_enchantment_maker=self.webpackChunkmc_enchantment_maker||[]).push([[7398],{7398:(e,c,n)=>{e.exports=n.p+"static/media/enchanted_stone_axe.740f4c4f9ec16377d10e.gif"}}]);

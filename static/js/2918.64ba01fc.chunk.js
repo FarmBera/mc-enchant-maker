@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmc_enchantment_maker=self.webpackChunkmc_enchantment_maker||[]).push([[2918],{2918:(e,a,c)=>{e.exports=c.p+"static/media/enchanted_leather_leggings.d31b54340adc0d2246cb.gif"}}]);

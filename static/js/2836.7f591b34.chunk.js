@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmc_enchantment_maker=self.webpackChunkmc_enchantment_maker||[]).push([[2836],{2836:(e,t,n)=>{e.exports=n.p+"static/media/enchanted_netherite_boots.79ffe88e443169ab4878.gif"}}]);

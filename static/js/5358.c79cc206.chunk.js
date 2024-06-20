@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmc_enchantment_maker=self.webpackChunkmc_enchantment_maker||[]).push([[5358],{5358:(e,a,t)=>{e.exports=t.p+"static/media/enchanted_netherite_pickaxe.fa1e932687c2ea926813.gif"}}]);

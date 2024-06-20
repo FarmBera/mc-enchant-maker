@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmc_enchantment_maker=self.webpackChunkmc_enchantment_maker||[]).push([[3185],{3185:(e,c,t)=>{e.exports=t.p+"static/media/debug_stick.57fa96080d496f43f75c.gif"}}]);

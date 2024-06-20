@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmc_enchantment_maker=self.webpackChunkmc_enchantment_maker||[]).push([[5560],{5560:(e,a,t)=>{e.exports=t.p+"static/media/enchanted_netherite_shovel.a83c25ac2fabe8e24bb4.gif"}}]);

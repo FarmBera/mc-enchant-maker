@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmc_enchantment_maker=self.webpackChunkmc_enchantment_maker||[]).push([[7357],{7357:(e,c,a)=>{e.exports=a.p+"static/media/enchanted_diamond_axe.c37ec4d296468d44cfc8.gif"}}]);

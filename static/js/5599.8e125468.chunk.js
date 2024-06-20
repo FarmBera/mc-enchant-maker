@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmc_enchantment_maker=self.webpackChunkmc_enchantment_maker||[]).push([[5599],{5599:(e,a,t)=>{e.exports=t.p+"static/media/enchanted_elytra.a8d9703101de7a0f37ef.gif"}}]);

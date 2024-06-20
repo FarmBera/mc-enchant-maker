@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmc_enchantment_maker=self.webpackChunkmc_enchantment_maker||[]).push([[9503],{9503:(e,a,n)=>{e.exports=n.p+"static/media/enchanted_wooden_axe.40af929fc7439b5defb6.gif"}}]);

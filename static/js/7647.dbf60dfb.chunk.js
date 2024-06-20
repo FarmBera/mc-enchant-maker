@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmc_enchantment_maker=self.webpackChunkmc_enchantment_maker||[]).push([[7647],{7647:(e,c,a)=>{e.exports=a.p+"static/media/enchanted_golden_pickaxe.4f163188cc88d2d7a319.gif"}}]);

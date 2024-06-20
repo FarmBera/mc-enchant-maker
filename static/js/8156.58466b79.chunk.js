@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmc_enchantment_maker=self.webpackChunkmc_enchantment_maker||[]).push([[8156],{8156:(e,a,c)=>{e.exports=c.p+"static/media/enchanted_crossbow.5e71be8b9b72557a0f74.gif"}}]);

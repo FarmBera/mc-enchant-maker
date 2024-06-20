@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmc_enchantment_maker=self.webpackChunkmc_enchantment_maker||[]).push([[6106],{6106:(e,t,n)=>{e.exports=n.p+"static/media/enchanted_iton_boots.b89edda31ec9db5deb43.gif"}}]);

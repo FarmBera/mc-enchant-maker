@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmc_enchantment_maker=self.webpackChunkmc_enchantment_maker||[]).push([[7311],{9692:(e,n,c)=>{e.exports=c.p+"static/media/enchanted_wooden_shovel.f5ec0e01246e0fe43b91.gif"}}]);

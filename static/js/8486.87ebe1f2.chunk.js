@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmc_enchantment_maker=self.webpackChunkmc_enchantment_maker||[]).push([[8486],{8486:(e,a,c)=>{e.exports=c.p+"static/media/enchanted_stone_hoe.d984319f6c4ba466a3ec.gif"}}]);

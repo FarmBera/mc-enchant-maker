@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmc_enchantment_maker=self.webpackChunkmc_enchantment_maker||[]).push([[9386],{9386:(e,a,c)=>{e.exports=c.p+"static/media/enchanted_diamond_shovel.2af18560832d17cb5ec6.gif"}}]);

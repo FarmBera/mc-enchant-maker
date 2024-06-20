@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmc_enchantment_maker=self.webpackChunkmc_enchantment_maker||[]).push([[6042],{6042:(e,a,n)=>{e.exports=n.p+"static/media/enchanted_diamond_sword.3d63582bada82c1f1ad2.gif"}}]);

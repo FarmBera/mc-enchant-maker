@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmc_enchantment_maker=self.webpackChunkmc_enchantment_maker||[]).push([[8071],{8071:(e,c,t)=>{e.exports=t.p+"static/media/enchanted_leather_chestplate.099e1c8cd21c73b97f34.gif"}}]);

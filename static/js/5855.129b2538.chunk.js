@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmc_enchantment_maker=self.webpackChunkmc_enchantment_maker||[]).push([[5855],{5855:(e,n,t)=>{e.exports=t.p+"static/media/enchanted_wooden_hoe.4d71b569e503d549d64e.gif"}}]);

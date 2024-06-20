@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmc_enchantment_maker=self.webpackChunkmc_enchantment_maker||[]).push([[9865],{9865:(e,n,t)=>{e.exports=t.p+"static/media/enchanted_netherite_leggings.6cf3bb421412b6348dec.gif"}}]);

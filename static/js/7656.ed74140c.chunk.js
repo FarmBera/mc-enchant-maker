@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmc_enchantment_maker=self.webpackChunkmc_enchantment_maker||[]).push([[7656],{7656:(e,n,a)=>{e.exports=a.p+"static/media/enchanted_iron_shovel.7d35b435e94e0ea7d084.gif"}}]);

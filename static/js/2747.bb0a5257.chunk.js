@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmc_enchantment_maker=self.webpackChunkmc_enchantment_maker||[]).push([[2747],{2747:(e,a,n)=>{e.exports=n.p+"static/media/enchanted_diamond_leggings.e0a9c6fe093eb17615ae.gif"}}]);

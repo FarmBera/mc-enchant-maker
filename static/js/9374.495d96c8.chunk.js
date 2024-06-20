@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmc_enchantment_maker=self.webpackChunkmc_enchantment_maker||[]).push([[9374],{9374:(e,c,n)=>{e.exports=n.p+"static/media/enchanted_golden_axe.2685ccfeb6c38f6b49c4.gif"}}]);

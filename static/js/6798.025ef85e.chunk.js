@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmc_enchantment_maker=self.webpackChunkmc_enchantment_maker||[]).push([[6798],{6798:(e,a,c)=>{e.exports=c.p+"static/media/enchanted_iron_pickaxe.8779d2c40be06975a890.gif"}}]);

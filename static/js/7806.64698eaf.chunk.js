@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmc_enchantment_maker=self.webpackChunkmc_enchantment_maker||[]).push([[7806],{7806:(e,n,a)=>{e.exports=a.p+"static/media/enchanted_golden_hoe.3c47453436777dfbae87.gif"}}]);

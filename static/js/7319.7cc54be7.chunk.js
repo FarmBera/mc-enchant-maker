@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmc_enchantment_maker=self.webpackChunkmc_enchantment_maker||[]).push([[7319],{7319:(e,a,c)=>{e.exports=c.p+"static/media/enchanted_golden_chestplate.af44c964df85e4beb4ac.gif"}}]);

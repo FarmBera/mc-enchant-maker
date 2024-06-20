@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmc_enchantment_maker=self.webpackChunkmc_enchantment_maker||[]).push([[8153],{8153:(e,c,n)=>{e.exports=n.p+"static/media/enchanted_golden_sword.5b9bfe3c03b7dd3c21ae.gif"}}]);

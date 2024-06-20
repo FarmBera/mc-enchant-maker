@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmc_enchantment_maker=self.webpackChunkmc_enchantment_maker||[]).push([[6343],{6343:(e,a,n)=>{e.exports=n.p+"static/media/enchanted_stone_pickaxe.2af1007fe17248094f5d.gif"}}]);

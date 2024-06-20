@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmc_enchantment_maker=self.webpackChunkmc_enchantment_maker||[]).push([[3183],{3183:(e,c,n)=>{e.exports=n.p+"static/media/enchanted_golden_shovel.8c9b3544293fd9bcf944.gif"}}]);

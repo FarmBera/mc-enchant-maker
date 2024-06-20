@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmc_enchantment_maker=self.webpackChunkmc_enchantment_maker||[]).push([[5956],{5956:(e,t,c)=>{e.exports=c.p+"static/media/written_book.ed27558c1bdbfc979f18.gif"}}]);

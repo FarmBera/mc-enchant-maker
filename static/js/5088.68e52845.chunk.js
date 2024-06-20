@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmc_enchantment_maker=self.webpackChunkmc_enchantment_maker||[]).push([[5088],{5088:(e,t,a)=>{e.exports=a.p+"static/media/enchanted_netherite_sword.4836d04bda35adf731e2.gif"}}]);

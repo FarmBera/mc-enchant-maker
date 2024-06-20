@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmc_enchantment_maker=self.webpackChunkmc_enchantment_maker||[]).push([[6947],{6947:(e,t,c)=>{e.exports=c.p+"static/media/enchanted_netherite_hoe.730309c23eb430692c93.gif"}}]);

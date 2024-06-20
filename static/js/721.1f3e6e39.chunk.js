@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmc_enchantment_maker=self.webpackChunkmc_enchantment_maker||[]).push([[721],{721:(e,n,t)=>{e.exports=t.p+"static/media/enchanted_stone_sword.c010772f35411663fe5a.gif"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmc_enchantment_maker=self.webpackChunkmc_enchantment_maker||[]).push([[864],{864:(e,a,n)=>{e.exports=n.p+"static/media/enchanted_golden_apple_old.e930536765a4b94e287c.gif"}}]);

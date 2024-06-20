@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmc_enchantment_maker=self.webpackChunkmc_enchantment_maker||[]).push([[5115],{5115:(e,t,n)=>{e.exports=n.p+"static/media/enchanted_netherite_axe.f38598e8c7b7d091b098.gif"}}]);

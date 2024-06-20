@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmc_enchantment_maker=self.webpackChunkmc_enchantment_maker||[]).push([[7273],{7273:(e,a,c)=>{e.exports=c.p+"static/media/enchanted_leather_boots.e8d45cafc7ab6c67e5e4.gif"}}]);

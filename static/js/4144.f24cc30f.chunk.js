@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmc_enchantment_maker=self.webpackChunkmc_enchantment_maker||[]).push([[4144],{4144:(e,a,n)=>{e.exports=n.p+"static/media/enchanted_iron_sword.48ea9d3390dc8ba5724d.gif"}}]);

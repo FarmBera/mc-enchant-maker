@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmc_enchantment_maker=self.webpackChunkmc_enchantment_maker||[]).push([[9179],{9179:(e,a,n)=>{e.exports=n.p+"static/media/enchanted_iron_axe.b8a2dbc0f0aa094f5e93.gif"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmc_enchantment_maker=self.webpackChunkmc_enchantment_maker||[]).push([[9312],{9312:(e,c,a)=>{e.exports=a.p+"static/media/enchanted_diamond_pickaxe.f9c313d64c7115c85025.gif"}}]);

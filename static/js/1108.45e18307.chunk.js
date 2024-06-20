@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmc_enchantment_maker=self.webpackChunkmc_enchantment_maker||[]).push([[1108],{1108:(e,a,c)=>{e.exports=c.p+"static/media/enchanted_bow.2d33a3d21fc6a4dfd799.gif"}}]);

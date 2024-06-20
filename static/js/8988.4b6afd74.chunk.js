@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmc_enchantment_maker=self.webpackChunkmc_enchantment_maker||[]).push([[8988],{8988:(e,t,c)=>{e.exports=c.p+"static/media/enchanted_netherite_chestplate.00f1bde63c16c3dee976.gif"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmc_enchantment_maker=self.webpackChunkmc_enchantment_maker||[]).push([[6793],{6793:(e,n,t)=>{e.exports=t.p+"static/media/enchanted_golden_boots.2b27657e250cf59bad66.gif"}}]);

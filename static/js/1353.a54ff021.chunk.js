@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmc_enchantment_maker=self.webpackChunkmc_enchantment_maker||[]).push([[1353],{1353:(e,a,c)=>{e.exports=c.p+"static/media/enchanted_iron_leggings.30c2a92b5c65e3e1a9ca.gif"}}]);
