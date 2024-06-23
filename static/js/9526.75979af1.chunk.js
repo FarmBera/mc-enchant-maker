@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmc_enchantment_maker=self.webpackChunkmc_enchantment_maker||[]).push([[9526],{9526:(e,a,c)=>{e.exports=c.p+"static/media/loading_origin.6b3a5aecab961a10d19c.gif"}}]);

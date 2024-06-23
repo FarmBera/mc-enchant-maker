@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmc_enchantment_maker=self.webpackChunkmc_enchantment_maker||[]).push([[7161],{7161:(e,a,t)=>{e.exports=t.p+"static/media/soul_fire.718130044975da3328d8.gif"}}]);
