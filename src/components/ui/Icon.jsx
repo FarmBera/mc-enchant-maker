@@ -15,6 +15,7 @@ const Icon = ({name, ext = 'gif', size = 40, className = ""}) => {
         return (<img
             src='/icon/barrier.gif'
             alt={name}
+            loading="lazy"
             width={size}
             height={size}
             onError={() => setError(true)}
@@ -26,6 +27,7 @@ const Icon = ({name, ext = 'gif', size = 40, className = ""}) => {
     return (<img
         src={src}
         alt={name}
+        loading="lazy"
         width={size}
         height={size}
         onError={() => setError(true)}
