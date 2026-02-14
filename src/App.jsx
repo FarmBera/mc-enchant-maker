@@ -187,7 +187,7 @@ function App() {
                         className="bg-white p-4 rounded-xl shadow-sm border border-slate-200 flex flex-col items-center justify-center w-28 transition-transform transform hover:scale-105">
                         <Icon name={viewMaterial[0]} size={56}/>
                         <span
-                            className="text-lg mt-3 font-bold text-slate-700 text-center wrap-break-word w-full leading-tight">{toFirstUpper(viewMaterial[0])}</span>
+                            className="text-md mt-3 font-bold text-slate-700 text-center wrap-break-word w-full leading-tight">{toFirstUpper(viewMaterial[0])}</span>
                     </div>)}
 
                     {/* plus sign */}
@@ -196,10 +196,10 @@ function App() {
 
                     {/* tool */}
                     {viewTool.length > 0 && (<div
-                        className="bg-white p-4 rounded-xl shadow-sm border border-slate-200 flex flex-col items-center justify-center w-28 transition-transform transform hover:scale-105">
+                        className="bg-white p-4 rounded-xl shadow-sm border border-slate-200 flex flex-col items-center justify-center w-32 transition-transform transform hover:scale-105">
                         <Icon name={viewTool[0]} size={56}/>
                         <span
-                            className="text-lg mt-3 font-bold text-slate-700 text-center wrap-break-word w-full leading-tight">{toFirstUpper(viewTool[0])}</span>
+                            className="text-md mt-3 font-bold text-slate-700 text-center wrap-break-word w-full leading-tight">{toFirstUpper(viewTool[0])}</span>
                     </div>)}
 
                     {/* WITH sign */}
@@ -208,7 +208,7 @@ function App() {
 
                     {/* enchant list */}
                     {viewEnchant.map((each) => (<div key={each}
-                                                     className="bg-indigo-50 p-2 rounded-xl border border-indigo-200 flex flex-col items-center justify-center w-28 relative group">
+                                                     className="bg-indigo-50 p-2 rounded-xl border border-indigo-200 flex flex-col items-center justify-center w-32 relative group">
                         <button
                             onClick={() => handleItemClick(each, 'enchant')}
                             className="absolute -top-2 -right-2 bg-red-500 text-white rounded-full w-8 h-8 text-xl flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity"
